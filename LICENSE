@@ -1,0 +1,119 @@
+Retouch Desk Project-Bound Source License (Custom), Version 1.0
+Copyright (c) 2026 zhanghexiang1123-lang and the respective contributors.
+All rights reserved except for the limited permissions below.
+
+This is a custom, project-bound source license. It is not an open-source
+license. The Chinese terms below are controlling; the English text is a
+translation for convenience. This license does not narrow rights that GitHub's
+Terms of Service grant to users of public repositories through GitHub's
+Service.
+
+1. Definitions
+
+"Official Project" means the Retouch Desk project maintained at
+https://github.com/zhanghexiang1123-lang/retouch-desk, including a successor
+repository publicly designated by its maintainer.
+
+"Covered Material" means original source code, documentation, and assets in
+this repository that are owned by the Retouch Desk project contributors.
+Third-party material remains governed by its own license or notice.
+
+2. Limited permission
+
+You may view and download the Covered Material. You may download and run an
+unmodified release published by the Official Project for personal or internal
+organizational use.
+
+You may make temporary changes to the Covered Material, including in a GitHub
+fork, solely to develop a proposed contribution to the Official Project. You
+may submit those changes to the Official Project as a pull request. Submitting
+a contribution does not transfer your copyright; you grant the Official
+Project maintainers a non-exclusive, worldwide, royalty-free, perpetual license
+to use, modify, reproduce, and distribute that contribution as part of the
+Official Project under this license.
+
+3. Restrictions
+
+Except for rights GitHub grants to users through its Service, the limited
+permissions above, or separate written permission from the relevant copyright
+holder, you may not:
+
+- publicly redistribute, rehost, or publish the Covered Material outside
+  GitHub;
+- outside GitHub's Service, copy or adapt the Covered Material to create,
+  publish, or distribute a separate application, product, or project,
+  including a standalone release based on this code;
+- present the Covered Material or a derivative project as your own work, or
+  remove its copyright or attribution notices.
+
+GitHub's native fork feature may be used as permitted by GitHub's Terms of
+Service, and a public fork may be visible on GitHub. To have a change
+incorporated into the Official Project, submit it as a pull request;
+maintainers may accept or decline it. This license grants no general
+permission to republish the Covered Material outside GitHub or distribute it
+as a standalone product.
+
+4. Public GitHub repository
+
+The Official Project is public. GitHub's Terms of Service allow users to view
+and fork public repositories within GitHub, and grant users certain rights to
+use and reproduce public content through the Service. This license cannot
+disable those platform rights or prevent a fork from being visible on GitHub.
+It grants no additional right to republish the Covered Material outside
+GitHub or release a standalone application based on it. Do not misrepresent the
+project's origin.
+
+5. Third-party material
+
+This license does not replace or limit the license of third-party components,
+fonts, assets, or other material identified in their own files or notices.
+Review those notices before using such material.
+
+6. No warranty
+
+The Covered Material is provided "as is", without warranties or conditions of
+any kind, to the extent permitted by applicable law. The copyright holders are
+not liable for claims or damages arising from its use, to the extent permitted
+by applicable law.
+
+---------------- 中文条款（具有约束力） ----------------
+
+Retouch Desk 项目内使用许可（自定义），版本 1.0
+版权所有 © 2026 zhanghexiang1123-lang 及各贡献者（按各自贡献享有相应权利）。除以下有限许可外，保留所有权利。
+
+本许可为项目限定的自定义许可，不属于开源许可证。中文条款为准，英文部分仅供参考。本许可不缩减 GitHub 服务条款授予公开仓库用户的站内平台权利。
+
+一、定义
+
+“本项目”指由维护者运营的 Retouch Desk 项目，当前地址为：
+https://github.com/zhanghexiang1123-lang/retouch-desk；也包括维护者公开指定的继任仓库。
+
+“项目材料”指本仓库中由 Retouch Desk 项目相关权利人享有权利的原创源代码、文档和素材。第三方材料仍适用其自身许可证或声明。
+
+二、有限许可
+
+你可以查看、下载项目材料，也可以下载并运行本项目官方发布的、未经修改的软件，用于个人或组织内部使用。
+
+你可以在临时工作副本中（包括 GitHub fork）修改项目材料，但仅限于开发准备提交给本项目的贡献。你可以将修改作为 Pull Request 提交到本项目。提交贡献不会转让你的著作权；你授予本项目维护者一项非独占、全球范围、免许可费、永久的许可，使其可以将该贡献作为本项目的一部分进行使用、修改、复制和发布，并适用本许可。
+
+三、限制
+
+除 GitHub 服务条款授予用户的平台权利、以上有限许可或相关权利人另行书面授权外，你不得：
+
+- 在 GitHub 平台之外公开再分发、重新托管或发布项目材料；
+- 在 GitHub 服务条款授予的平台权利范围之外，复制或改编项目材料以创建、发布或分发独立的应用、产品或项目，包括基于本代码单独打包发布的软件；
+- 将项目材料或其衍生项目表示为你自己的作品，或删除其中的版权及来源声明。
+
+你可以按照 GitHub 服务条款使用 GitHub 自带的 fork 功能，公开 fork 也可能显示在 GitHub 上。若希望修改进入本项目，请提交 Pull Request；维护者可以自行决定是否接受。本许可不授予你在 GitHub 平台之外重新发布项目材料或将其作为独立产品分发的一般权限。
+
+四、公开 GitHub 仓库
+
+本项目是公开仓库。根据 GitHub 服务条款，用户可以在 GitHub 平台内查看和 fork 公开仓库，并在服务功能范围内使用、展示和复制公开内容。本许可无法关闭这些平台权利，也无法阻止 fork 在 GitHub 上显示。本许可不额外授予你在 GitHub 之外重新发布项目材料或将其作为独立应用分发的权限；不得冒认作品来源。
+
+五、第三方材料
+
+本许可不取代或限制第三方组件、字体、素材或其他材料各自的许可证。使用前请查看相应文件和声明。
+
+六、免责声明
+
+在适用法律允许的范围内，项目材料按“现状”提供，不附带任何明示或默示的保证或条件。对于因使用项目材料产生的索赔或损失，相关权利人在适用法律允许的范围内不承担责任。

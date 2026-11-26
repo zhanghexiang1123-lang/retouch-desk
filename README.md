@@ -81,6 +81,14 @@ The installer is written to `release/installer/RetouchDesk-0.5.0-Setup-x64.exe`.
 
 The Chinese Inno Setup translation is from the Inno Setup project's `is-6_7_4` source tag. Its contributor attribution is retained in `installer/ChineseSimplified.isl`; the translation is licensed under MIT. See `installer/THIRD-PARTY-NOTICES.md`.
 
+## 许可与贡献 / License and contributions
+
+Retouch Desk 使用自定义的“项目内使用许可”，**不属于开源许可证**。你可以运行官方发布的软件，也可以通过 GitHub fork 准备贡献，并向本仓库提交 Pull Request。许可不授予在 GitHub 之外重新发布代码或将其打包成独立应用发布的一般权限。完整条款见 [LICENSE](LICENSE)，贡献流程见 [CONTRIBUTING.md](CONTRIBUTING.md)。
+
+GitHub 服务条款允许用户在平台内 fork 和使用公开内容，因此本项目无法屏蔽 GitHub 站内的 fork。项目许可不授予在 GitHub 之外重新发布代码或将其作为独立产品发布的额外权限。
+
+Retouch Desk uses a custom, project-bound source license. It is **not an open-source license**. You may run official releases and use a GitHub fork to prepare a contribution by submitting a pull request to this repository. The license grants no general permission to republish the code outside GitHub or distribute it as a standalone app. GitHub's Terms of Service allow users to fork and use public content within GitHub, so this project cannot prevent an in-service fork from being visible. See [LICENSE](LICENSE) and [CONTRIBUTING.md](CONTRIBUTING.md).
+
 ## Project layout
 
 - `src/` contains the React workspace and editor interface.
