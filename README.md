@@ -1,29 +1,37 @@
-# Retouch Desk 0.5.0
+# Retouch Desk 0.5.0 | 图片中文字修改工具
+
+Retouch Desk 是一款 Windows 桌面端**图片中文字修改工具**。打开图片后，用矩形框或自由画圈选中文字；本地 OCR 会辅助识别原文，你可以手动校对、输入替换内容、预览效果，再导出 PNG。
+
+图片处理运行在本机 CPU 上，无需显卡、云端模型或 API Key。适用于截图、海报和演示文稿中的单行印刷文字；复杂纹理、透视、弯曲文字和手写内容仍需谨慎检查，效果取决于原图和字体。请在导出前核对预览。
+
+**关键词：** 图片文字修改、图片改字、图片文字替换、图中文字编辑、OCR 图片文字编辑。
+
+**Windows x64 安装包：** [下载 Retouch Desk 0.5.0](https://github.com/zhanghexiang1123-lang/retouch-desk/releases/tag/v0.5.0)
+
+## 图片改字演示 / Demo
+
+![图片中文字修改操作演示：原图、框选识别、确认替换文字和修改结果](docs/images/workflow-demo.gif)
+
+| 修改前 | 修改后 |
+| --- | --- |
+| ![包含中文和英文文字的原始测试图片](docs/images/demo-before.png) | ![修改中文和英文文字后的测试图片](docs/images/demo-after.png) |
+
+<details>
+<summary>查看软件界面截图 / View editing screenshots</summary>
+
+![Retouch Desk 图片文字编辑工作区](docs/images/app-workspace.png)
+
+![框选英文文字并检查 OCR 识别结果](docs/images/app-english-selection.png)
+
+![框选中文文字并确认替换内容](docs/images/app-chinese-selection.png)
+
+</details>
+
+## English
 
 Retouch Desk edits one line of text in a raster image. Select the text with a rectangle or freehand outline, check the locally recognized source text, enter a replacement, and inspect the preview before adopting or exporting it.
 
 The Windows app runs OCR and image reconstruction locally on the CPU. It does not require a graphics card, cloud account, API key, or network access while editing. Images and edit history remain in memory until the app closes, unless you export an image.
-
-## Demo: Simple Text Replacement
-
-This example replaces Chinese and English text in a presentation screenshot. Results depend on the source image, font, and selection; inspect each edit before exporting.
-
-| Before | After |
-| --- | --- |
-| ![Original test image with Chinese and English text](docs/images/demo-before.png) | ![Edited test image with replacement Chinese and English text](docs/images/demo-after.png) |
-
-<details>
-<summary>View the editing workflow</summary>
-
-![Retouch Desk editing workspace](docs/images/app-workspace.png)
-
-Select a text region and review the detected source and replacement text:
-
-![English text selected in Retouch Desk](docs/images/app-english-selection.png)
-
-![Chinese text selected in Retouch Desk](docs/images/app-chinese-selection.png)
-
-</details>
 
 ## Install
 
