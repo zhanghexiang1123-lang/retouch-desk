@@ -4,6 +4,27 @@ Retouch Desk edits one line of text in a raster image. Select the text with a re
 
 The Windows app runs OCR and image reconstruction locally on the CPU. It does not require a graphics card, cloud account, API key, or network access while editing. Images and edit history remain in memory until the app closes, unless you export an image.
 
+## Demo: Simple Text Replacement
+
+This example replaces Chinese and English text in a presentation screenshot. Results depend on the source image, font, and selection; inspect each edit before exporting.
+
+| Before | After |
+| --- | --- |
+| ![Original test image with Chinese and English text](docs/images/demo-before.png) | ![Edited test image with replacement Chinese and English text](docs/images/demo-after.png) |
+
+<details>
+<summary>View the editing workflow</summary>
+
+![Retouch Desk editing workspace](docs/images/app-workspace.png)
+
+Select a text region and review the detected source and replacement text:
+
+![English text selected in Retouch Desk](docs/images/app-english-selection.png)
+
+![Chinese text selected in Retouch Desk](docs/images/app-chinese-selection.png)
+
+</details>
+
 ## Install
 
 Download `RetouchDesk-0.5.0-Setup-x64.exe` from the project's GitHub Releases and run the installer. It installs for the current Windows user, lets you choose an install folder, and can create a desktop shortcut. The app is also available from the Start menu and Windows' installed apps list.
