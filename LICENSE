@@ -24,12 +24,12 @@ You may view and download the Covered Material. You may download and run an
 unmodified release published by the Official Project for personal or internal
 organizational use.
 
-You may make temporary changes to the Covered Material, including in a GitHub
-fork, solely to develop a proposed contribution to the Official Project. You
-may submit those changes to the Official Project as a pull request. Submitting
-a contribution does not transfer your copyright; you grant the Official
-Project maintainers a non-exclusive, worldwide, royalty-free, perpetual license
-to use, modify, reproduce, and distribute that contribution as part of the
+GitHub's Terms of Service separately grant users certain rights to fork and
+use public content through GitHub's Service. To propose changes for inclusion
+in the Official Project, submit them as a pull request. Submitting a
+contribution does not transfer your copyright; you grant the Official Project
+maintainers a non-exclusive, worldwide, royalty-free, perpetual license to
+use, modify, reproduce, and distribute that contribution as part of the
 Official Project under this license.
 
 3. Restrictions
@@ -43,15 +43,17 @@ holder, you may not:
 - outside GitHub's Service, copy or adapt the Covered Material to create,
   publish, or distribute a separate application, product, or project,
   including a standalone release based on this code;
-- present the Covered Material or a derivative project as your own work, or
+- outside rights granted by GitHub's Service, present the Covered Material or
+  a derivative project as your own work, or
   remove its copyright or attribution notices.
 
 GitHub's native fork feature may be used as permitted by GitHub's Terms of
-Service, and a public fork may be visible on GitHub. To have a change
-incorporated into the Official Project, submit it as a pull request;
-maintainers may accept or decline it. This license grants no general
-permission to republish the Covered Material outside GitHub or distribute it
-as a standalone product.
+Service, and a public fork may be visible on GitHub. A fork is not part of the
+Official Project unless its changes are accepted into the Official Project.
+Maintainers may accept or decline a pull request. This license grants no
+general permission to republish the Covered Material outside GitHub or
+distribute it as a standalone product beyond the rights granted by GitHub's
+Terms of Service.
 
 4. Public GitHub repository
 
@@ -94,7 +96,7 @@ https://github.com/zhanghexiang1123-lang/retouch-desk；也包括维护者公开
 
 你可以查看、下载项目材料，也可以下载并运行本项目官方发布的、未经修改的软件，用于个人或组织内部使用。
 
-你可以在临时工作副本中（包括 GitHub fork）修改项目材料，但仅限于开发准备提交给本项目的贡献。你可以将修改作为 Pull Request 提交到本项目。提交贡献不会转让你的著作权；你授予本项目维护者一项非独占、全球范围、免许可费、永久的许可，使其可以将该贡献作为本项目的一部分进行使用、修改、复制和发布，并适用本许可。
+GitHub 服务条款另行授予用户在 GitHub 服务内 fork 和使用公开内容的部分权利。若希望修改纳入本项目，请将修改作为 Pull Request 提交。提交贡献不会转让你的著作权；你授予本项目维护者一项非独占、全球范围、免许可费、永久的许可，使其可以将该贡献作为本项目的一部分进行使用、修改、复制和发布，并适用本许可。
 
 三、限制
 
@@ -102,9 +104,9 @@ https://github.com/zhanghexiang1123-lang/retouch-desk；也包括维护者公开
 
 - 在 GitHub 平台之外公开再分发、重新托管或发布项目材料；
 - 在 GitHub 服务条款授予的平台权利范围之外，复制或改编项目材料以创建、发布或分发独立的应用、产品或项目，包括基于本代码单独打包发布的软件；
-- 将项目材料或其衍生项目表示为你自己的作品，或删除其中的版权及来源声明。
+- 在 GitHub 服务条款授予的平台权利范围之外，将项目材料或其衍生项目表示为你自己的作品，或删除其中的版权及来源声明。
 
-你可以按照 GitHub 服务条款使用 GitHub 自带的 fork 功能，公开 fork 也可能显示在 GitHub 上。若希望修改进入本项目，请提交 Pull Request；维护者可以自行决定是否接受。本许可不授予你在 GitHub 平台之外重新发布项目材料或将其作为独立产品分发的一般权限。
+你可以按照 GitHub 服务条款使用 GitHub 自带的 fork 功能，公开 fork 也可能显示在 GitHub 上。fork 中的修改只有在被本项目接受后才属于本项目。若希望修改纳入本项目，请提交 Pull Request；维护者可以自行决定是否接受。除 GitHub 服务条款明确授予的平台权利外，本许可不授予你在 GitHub 平台之外重新发布项目材料或将其作为独立产品分发的一般权限。
 
 四、公开 GitHub 仓库
 
