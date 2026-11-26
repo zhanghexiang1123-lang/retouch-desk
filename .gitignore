@@ -1,0 +1,24 @@
+# Local runtimes and generated build output
+node_modules/
+.venv/
+**/.venv/
+dist/
+build/
+release/
+output/
+artifacts/
+.tools/
+.playwright-cli/
+__pycache__/
+*.py[cod]
+
+# Local credentials, image paths, and runtime configuration
+.env
+.env.*
+sample.local.json
+
+# Other projects and installed copies stored beside this project
+/api-version/
+/response-studio/
+/Retouch Desk/
+/API版启动.bat
